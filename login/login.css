@@ -1,0 +1,21 @@
+.login_container {
+    margin: auto;
+    position: relative;
+    top: 40vw;
+    width: 60vw;
+}
+
+.login_title {
+    margin: auto;
+    text-align: center;
+
+}
+
+.navigator {
+    font-size: 12px;
+}
+
+.navigator a {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
